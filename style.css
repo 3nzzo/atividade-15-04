@@ -1,0 +1,24 @@
+
+
+:root{
+    --cor-de-fundo: #000000;
+    --azul: #0f0f88;
+    --branco: #d5d5ff;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 span{
+    color: var(--azul);
+}
+
+#dias-restantes{ 
+    color: #0f0f88;
+    font-size: 50px
+}
+
